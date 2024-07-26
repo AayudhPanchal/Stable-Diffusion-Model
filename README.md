@@ -21,4 +21,4 @@ Special thanks to the following repositories:
 1. https://github.com/divamgupta/stable-diffusion-tensorflow
 1. https://github.com/kjsman/stable-diffusion-pytorch
 1. https://github.com/huggingface/diffusers/
-
+1. https://www.youtube.com/watch?v=ZBKpAp_6TGI
